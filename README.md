@@ -45,6 +45,8 @@ I am currently exploring **Artificial Intelligence tools applied to creative wor
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
   ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+  <img src="https://raw.githubusercontent.com/LobeHub/icons/main/icons/comfyui/comfyui.svg" width="40" />
+
 </p>
 
 ---
